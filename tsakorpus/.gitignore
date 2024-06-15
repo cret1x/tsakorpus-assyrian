@@ -37,7 +37,6 @@ pip-delete-this-directory.txt
 .env
 venv/
 ENV/
-/corpus.json
 docs/_build
 **/messages.mo
 **/messages.po
