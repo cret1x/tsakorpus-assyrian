@@ -29,15 +29,12 @@
   "integer_meta_fields": [],
   "interface_languages": [
     "en",
-    "ru",
-    "fr",
-    "zh",
-    "sq",
-    "hy"
+    "ru"
   ],
   "keep_lemma_order": false,
   "keyboards": {
-    "beserman": "beserman",
+    "english": "english",
+    "assyriac": "assyriac",
     "russian": "russian"
   },
   "lang_props": {
@@ -1762,7 +1759,8 @@
     }
   },
   "languages": [
-    "beserman",
+    "assyriac",
+    "english",
     "russian"
   ],
   "lemma_table_fields": [],
