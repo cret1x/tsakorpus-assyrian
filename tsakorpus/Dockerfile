@@ -7,4 +7,5 @@ COPY . .
 EXPOSE 7342
 
 WORKDIR /app
+RUN chmod +x ./start.sh
 CMD [ "./start.sh" ]
