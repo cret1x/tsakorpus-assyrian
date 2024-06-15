@@ -42,7 +42,6 @@ def search_page():
     locales = settings.interface_languages
     if type(locales) == list:
         locales = {x: x for x in locales}
-
     return render_template('index.html',
                            minimalistic=bMinimalistic,
                            ready_for_work=ready4work,
